@@ -34,7 +34,6 @@ This project was developed as part of the frontend internship selection process 
 * **State Management:** React Hooks (`useState`, `useEffect`).
 * **Deployment:** Vercel.
 
-**Note:** No AI website builders (Lovable, Bolt, etc.) were used. [cite_start]This project was hand-coded.
 
 ---
 
@@ -44,7 +43,7 @@ If you wish to run this project on your local machine, follow these steps:
 
 1.  **Clone the repository** (or download source):
     ```bash
-    git clone <your-repo-link>
+    git clone (https://github.com/mandaldhruv/o3gen.git)
     cd o3gen-realty
     ```
 
