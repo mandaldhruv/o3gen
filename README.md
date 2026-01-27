@@ -78,5 +78,5 @@ src/ ├── components/ │ ├── Navbar.jsx # Sticky, responsive navigat
 
 ---
 
-**Developed by a 2nd Year B.Tech Student**
+**Author - Dhruv Mandal**
 *Focused on clean code, component modularity, and pixel-perfect design.*
