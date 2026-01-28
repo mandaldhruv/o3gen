@@ -1,4 +1,4 @@
-# O3Gen AI Realty - Frontend Internship Assignment
+# O3Gen AI Realty 
 
 ![O3Gen AI Realty](https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070&auto=format&fit=crop)
 
@@ -76,6 +76,7 @@ src/ ├── components/ │ ├── Navbar.jsx # Sticky, responsive navigat
 * **Animations:** Custom Tailwind configurations were added for the `marquee` and `fade-in-up` effects to keep the bundle size small[cite: 51].
 
 ---
+*Focused on clean code, component modularity, and pixel-perfect design.*
 
 **Author - Dhruv Mandal**
-*Focused on clean code, component modularity, and pixel-perfect design.*
+
